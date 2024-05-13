@@ -1,4 +1,4 @@
-# YOLO v9 Overview
+# YOLOv9 Mask Detection
 YOLOv9 is a powerful computer vision model for object detection, developed by Chien-Yao Wang, I-Hau Yeh, and Hong-Yuan Mark Liao. It introduces the YOLOv9 and GELAN architectures, accessible through the accompanying Python repository. While YOLOv9 excels at object detection, it currently does not support segmentation, classification, or other related tasks ( 10 Mar 2024).
 
 This solution fundamentally relies on two groundbreaking innovations: Programmable Gradient Information (PGI) and the lightweight Generalized Efficient Layer Aggregation Network (GELAN) architecture.
