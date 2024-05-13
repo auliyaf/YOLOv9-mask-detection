@@ -15,7 +15,7 @@ Exceptional Performance: The utilization of GELAN and PGI in object detection ta
 **Model Result Folder**
 - [Model Result](https://www.kaggle.com/code/auliyaaaf/yolov9-face-mask-detection)
 
-**Repository**
+**Source Repository**
 * [Repository](https://github.com/WongKinYiu/yolov9/tree/main)
 
 **Paper**
